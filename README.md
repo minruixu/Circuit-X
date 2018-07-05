@@ -33,10 +33,15 @@ to run this software
 ### Component
 
 -AND size:3*3
+
 -OR  size:3*3
+
 -XOR size:3*3
+
 -INVERSE size:1*3
+
 -BITDISPLAY size:3*3
+
 -BYTEDISPLAY size:10*3
 
 ### Command
