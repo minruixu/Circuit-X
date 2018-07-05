@@ -1,0 +1,6 @@
+New Or 3,4
+Conn 0,0 3,4
+COnn 0,0 3,6
+New BIT 8,4
+CONN 5,5 8,5
+RUn
