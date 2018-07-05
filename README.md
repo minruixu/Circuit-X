@@ -62,7 +62,7 @@ to connect outinterface and ininterface(e.g. CONN 0,0 10,10)
 DISCONN position(out) position(in)
 ```
 
-to disconnect outinterface and ininterface(e.g. CONN 0,0 10,10)
+to disconnect outinterface and ininterface(e.g. DSICONN 0,0 10,10)
 
 ```
 LIST
