@@ -68,7 +68,7 @@ to disconnect outinterface and ininterface(e.g. DSICONN 0,0 10,10)
 LIST
 ```
 
-list all commands you have input(so that you can copy it to a file and save it)
+list all commands you have input(so that you can copy them to a file and save them)
 
 ```
 RUN
