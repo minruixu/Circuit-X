@@ -3,7 +3,7 @@ CONN 0,0 3,4
 CONN 0,0 3,6
 NEW BIT 8,4
 CONN 5,5 8,5
-RUn //test 0or0
+RUN //test 0or0
 DISCONN 0,0 3,4
 CONN 0,1 3,4
 RUN //test 0or1
