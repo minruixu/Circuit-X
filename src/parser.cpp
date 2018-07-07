@@ -63,10 +63,16 @@ bool Parser::HandleCommand(Circuit* circuit,string command){
     catch(int){
       window_->print("环异常");
     }
+    catch(...){
+      window_->print("Run succesfully");
+    }
     //window_->print("end");
   }
   else if(command[0] == 'Q'){
     return false;
+  }
+  else if(command[0] =='/'){
+    
   }
   return true;
 }
