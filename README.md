@@ -4,11 +4,11 @@ A simple circuit software.
 
 ## Enivorment
 
--this software running on unbuntu
+- this software running on unbuntu.
 
--this software using ncurses, make sure your computer has support ncurses already.
+- this software using ncurses, make sure your computer has support ncurses already.
 
--the size of window is 43*132
+- the size of window is **43*132**,please resize you terminal before you use it.
 
 ## Run the software
 
@@ -26,25 +26,25 @@ to run this software
 
 ## Introdution
 
--there are two source-output interface in the upper-left corner
+- there are two source-output interface in the upper-left corner
 
--the negative source is in 0,0 , the positive source is in 0,1
+- the negative source is in 0,0 , the positive source is in 0,1
 
--you have to connect the sources to set a data for ininterface
+- you have to connect the sources to set a data for ininterface
 
 ### Component
 
--AND size:3*3
+- AND size:3*3
 
--OR  size:3*3
+- OR  size:3*3
 
--XOR size:3*3
+- XOR size:3*3
 
--INVERSE size:1*3
+- INVERSE size:1*3
 
--BITDISPLAY size:3*3
+- BITDISPLAY size:3*3
 
--BYTEDISPLAY size:10*3
+- BYTEDISPLAY size:10*3
 
 ### Command
 
