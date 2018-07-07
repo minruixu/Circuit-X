@@ -8,6 +8,8 @@ A simple circuit software.
 
 -this software using ncurses, make sure your computer has support ncurses already.
 
+-the size of window is 43*132
+
 ## Run the software
 
 ```
