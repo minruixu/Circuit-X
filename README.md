@@ -2,6 +2,8 @@
 
 A simple circuit software.
 
+Before running *./circuit*, make sure the terminal size is more than **43*132**.
+
 ## Enivorment
 
 - this software running on unbuntu.
@@ -34,13 +36,13 @@ to run this software
 
 ### Component
 
-- AND size:3*3
+- AND size:3*3 symble: &
 
-- OR  size:3*3
+- OR  size:3*3 symble: |
 
-- XOR size:3*3
+- XOR size:3*3 symble: ^
 
-- INVERSE size:1*3
+- INVERSE size:1*3 symble: >
 
 - BITDISPLAY size:3*3
 
